@@ -14,6 +14,8 @@ Simulation and modelling engineer. MSc Computational Fluid Dynamics (Cranfield, 
 
 | Project | What it is |
 |---|---|
+| [tube-sim](https://github.com/Blueshadow0107/tube-sim) | London Tube journey planner and all-lines solver, with a 1863–2025 slider that replays how the network grew |
+| [city-sim](https://github.com/Blueshadow0107/city-sim) | Cities through time, 2357 BCE to 2025: population heatmaps and city size curves from real data |
 | [showdown-brain](https://github.com/Blueshadow0107/showdown-brain) | Pokémon Showdown gen 9 AI learned from ladder replays: value function and policy prior with expectimax search |
 | [thumbloop](https://github.com/Blueshadow0107/thumbloop) | Loop sketchpad you play with a game controller or keyboard, with live scopes and Strudel/MIDI export |
 | [prompt-to-cad](https://github.com/Blueshadow0107/prompt-to-cad) | CLI that turns natural-language prompts into executable CadQuery models |
